@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/elvan/AndroidStudioProjects/AvatarKorraCharacters/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/elvan/AndroidStudioProjects/AvatarKorraCharacters/app/src/main/res/layout-large/activity_splash.xml" value="0.190625" />
+        <entry key="..\:/Users/elvan/AndroidStudioProjects/AvatarKorraCharacters/app/src/main/res/layout-normal/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/elvan/AndroidStudioProjects/AvatarKorraCharacters/app/src/main/res/layout-small/activity_splash.xml" value="0.819672131147541" />
+        <entry key="..\:/Users/elvan/AndroidStudioProjects/AvatarKorraCharacters/app/src/main/res/layout-xlarge/activity_splash.xml" value="0.190625" />
+        <entry key="..\:/Users/elvan/AndroidStudioProjects/AvatarKorraCharacters/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/elvan/AndroidStudioProjects/AvatarKorraCharacters/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/elvan/AndroidStudioProjects/AvatarKorraCharacters/app/src/main/res/layout/card_view.xml" value="0.253125" />
+        <entry key="..\:/Users/elvan/AndroidStudioProjects/AvatarKorraCharacters/app/src/main/res/layout/fragment_main.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
